@@ -1,0 +1,17 @@
+.banner{
+  background-color:palegreen;
+    width:100%;
+    height:200px;
+    margin-bottom:50px;
+
+}
+
+.banner-text{
+ top: 50px;
+ left: 50px;
+ position: center;
+
+ transform: translate(40%,110%);
+
+
+}
